@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\DrawingApp.Form1.resources
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfo.cs
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Form3\bin\Debug\net8.0-windows\Form3.exe
+C:\Users\HP\source\repos\Form3\bin\Debug\net8.0-windows\Form3.deps.json
+C:\Users\HP\source\repos\Form3\bin\Debug\net8.0-windows\Form3.runtimeconfig.json
+C:\Users\HP\source\repos\Form3\bin\Debug\net8.0-windows\Form3.dll
+C:\Users\HP\source\repos\Form3\bin\Debug\net8.0-windows\Form3.pdb
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.dll
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\refint\Form3.dll
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.pdb
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\Form3.genruntimeconfig.cache
+C:\Users\HP\source\repos\Form3\obj\Debug\net8.0-windows\ref\Form3.dll
