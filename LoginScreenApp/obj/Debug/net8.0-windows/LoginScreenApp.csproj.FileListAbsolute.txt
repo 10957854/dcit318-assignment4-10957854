@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\LoginScreenApp\bin\Debug\net8.0-windows\LoginScreenApp.exe
+C:\Users\HP\source\repos\LoginScreenApp\bin\Debug\net8.0-windows\LoginScreenApp.deps.json
+C:\Users\HP\source\repos\LoginScreenApp\bin\Debug\net8.0-windows\LoginScreenApp.runtimeconfig.json
+C:\Users\HP\source\repos\LoginScreenApp\bin\Debug\net8.0-windows\LoginScreenApp.dll
+C:\Users\HP\source\repos\LoginScreenApp\bin\Debug\net8.0-windows\LoginScreenApp.pdb
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginApp.Form1.resources
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.dll
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\refint\LoginScreenApp.dll
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.pdb
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\LoginScreenApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\LoginScreenApp\obj\Debug\net8.0-windows\ref\LoginScreenApp.dll
