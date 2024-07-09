@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\AddressBookApp\bin\Debug\net8.0-windows\AddressBookApp.exe
+C:\Users\HP\source\repos\AddressBookApp\bin\Debug\net8.0-windows\AddressBookApp.deps.json
+C:\Users\HP\source\repos\AddressBookApp\bin\Debug\net8.0-windows\AddressBookApp.runtimeconfig.json
+C:\Users\HP\source\repos\AddressBookApp\bin\Debug\net8.0-windows\AddressBookApp.dll
+C:\Users\HP\source\repos\AddressBookApp\bin\Debug\net8.0-windows\AddressBookApp.pdb
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.Form1.resources
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.dll
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\refint\AddressBookApp.dll
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.pdb
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\AddressBookApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\AddressBookApp\obj\Debug\net8.0-windows\ref\AddressBookApp.dll
